@@ -1,0 +1,15 @@
+{
+    "name": "hammer",
+    "repo": "thcu/hammer",
+    "version": "2.0.2",
+    "description": "hammer.js component",
+    "keywords": [
+    	"hammer.js",
+    	"component"
+    ],
+    "main": "hammer.js",
+    "scripts": [
+    	"hammer.js"
+    ],
+    "license": "MIT"
+}
